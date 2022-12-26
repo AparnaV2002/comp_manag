@@ -1,0 +1,3 @@
+COMPLAINT MANAGEMENT USING REACT JS.
+MONGODB IS USED FOR BACKENED.
+![image](https://user-images.githubusercontent.com/95341493/209527295-17d3d6cf-3f92-40b0-ae68-2588685916a5.png)
